@@ -1,7 +1,7 @@
 new Vue({
     el: "#vue-app",
     delimiters: ['[[',']]'],
-    data:{
+    data:{ 
         health: 100,
         ended: false
     },
